@@ -1,0 +1,13 @@
+D:\SolutionVS\Cursovaya\Cursovaya\bin\Debug\Cursovaya.exe.config
+D:\SolutionVS\Cursovaya\Cursovaya\bin\Debug\Cursovaya.exe
+D:\SolutionVS\Cursovaya\Cursovaya\bin\Debug\Cursovaya.pdb
+D:\SolutionVS\Cursovaya\Cursovaya\obj\Debug\Cursovaya.csprojAssemblyReference.cache
+D:\SolutionVS\Cursovaya\Cursovaya\obj\Debug\Cursovaya.Properties.Resources.resources
+D:\SolutionVS\Cursovaya\Cursovaya\obj\Debug\Cursovaya.csproj.GenerateResource.cache
+D:\SolutionVS\Cursovaya\Cursovaya\obj\Debug\Cursovaya.csproj.CoreCompileInputs.cache
+D:\SolutionVS\Cursovaya\Cursovaya\obj\Debug\Cursovaya.exe
+D:\SolutionVS\Cursovaya\Cursovaya\obj\Debug\Cursovaya.pdb
+D:\SolutionVS\Cursovaya\Cursovaya\obj\Debug\Cursovaya.FormAdm.resources
+D:\SolutionVS\Cursovaya\Cursovaya\obj\Debug\Cursovaya.FormClient.resources
+D:\SolutionVS\Cursovaya\Cursovaya\obj\Debug\Cursovaya.FormEmployee.resources
+D:\SolutionVS\Cursovaya\Cursovaya\obj\Debug\Cursovaya.Form1.resources
